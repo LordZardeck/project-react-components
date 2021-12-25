@@ -1,0 +1,8 @@
+.content {
+    display: none;
+    background: green;
+}
+
+.content.show {
+    display: block;
+}
